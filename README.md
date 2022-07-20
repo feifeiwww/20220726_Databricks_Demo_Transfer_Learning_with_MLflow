@@ -11,17 +11,17 @@ If you would like Run this demo:
 
 **2. Or on Databricks Community Edition (it is free, and it is different from the Dtabricks free trial version):**
 
-a) First sign up for a free [Databricks Community Edition account here](https://community.cloud.databricks.com/login.html), please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html) if you have questions.
+step a) First sign up for a free [Databricks Community Edition account here](https://community.cloud.databricks.com/login.html), please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html) if you have questions.
 
-b) Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc"  insde of `databricks_version` folder on this repo, and import this .dbc file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under "import a notebook" section.
+step b) Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc"  insde of `databricks_version` folder on this repo, and import this .dbc file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under "import a notebook" section.
 
-c) Create a cluster under the "compute" tab on the left, select Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster. It may take a few minutes to start a cluster. 
+step c) Create a cluster under the "compute" tab on the left, select Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster. It may take a few minutes to start a cluster. 
 
-d) Open the imported notebooks on Databricks from the workspace tab, open either notebook part1, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. You may refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section "Attach a notebook to a cluster". 
+step d) Open the imported notebooks on Databricks from the workspace tab, open either notebook part1, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. You may refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section "Attach a notebook to a cluster". 
 
-e) You can now try to open notebook part2 now, attach it to the 10.4ML cluster, and click "Run All".
+step e) You can now try to open notebook part2 now, attach it to the 10.4ML cluster, and click "Run All".
 
-f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
+step f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
 
 **3. Or on Databricks enterprise edition:**
 
