@@ -9,7 +9,7 @@ If you would like Run this demo:
 
 * Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
 
-**2. Or on Databricks free Community Edition:**
+**2. Or on Databricks FREE Community Edition:**
 
 * To sign up for a free Databricks Community Edition account, please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html).
 
