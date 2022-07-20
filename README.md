@@ -9,15 +9,15 @@ If you would like Run this demo:
 
 * Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
 
-**2. Or on Databricks FREE Community Edition:**
+**2. Or on Databricks Community Edition (it is free, and it is different from the Dtabricks free trial version):**
 
-* To sign up for a free Databricks Community Edition account, please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html).
+* First sign up for a free [Databricks Community Edition account here](https://community.cloud.databricks.com/login.html), please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html) if you have questions.
 
 * Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc"  insde of `databricks_version` folder on this repo, and import this .dbc file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under "import a notebook" section.
 
-* Create a cluster with Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster.
+* Create a cluster under the "compute" tab on the left, select Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster.
 
-* Go open your imported notebooks on databricks, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. You may refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section "Attach a notebook to a cluster". Note: you must attach your notebook to a cluster before you can run it.
+* Go open your imported notebooks on databricks from the workspace tab, open either notebook1 or notebook2, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. You may refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section "Attach a notebook to a cluster". Note: you must attach your notebook to a cluster before you can run it.
 
 **3. Or on Databricks enterprise edition:**
 
