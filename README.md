@@ -17,7 +17,7 @@ If you would like Run this demo:
 
 * Create a cluster with Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster.
 
-* Go open your imported notebooks on databricks, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. You may refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section "Attach a notebook to a cluster".
+* Go open your imported notebooks on databricks, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. You may refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section "Attach a notebook to a cluster". Note: you must attach your notebook to a cluster before you can run it.
 
 **3. Or on Databricks enterprise edition:**
 
