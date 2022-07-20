@@ -21,7 +21,8 @@ d) Open the imported notebooks on Databricks from the workspace tab, open either
 
 e) You can now try to open notebook part2 now, attach it to the 10.4ML cluster, and click "Run All".
 
-* Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
+f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
+
 **3. Or on Databricks enterprise edition:**
 
 * Download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc" insde of `databricks_version` folder on this repo, and import this .dbc file into your Databricks user account.
