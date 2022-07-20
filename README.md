@@ -9,9 +9,15 @@ If you would like Run this demo:
 
 * Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
 
-**2. Or on Databricks Community Edition (it is free, and it is different from the Dtabricks free trial version):**
+**2. Or on Databricks Community Edition (it is free. note: it is different from the Databricks Free Trial version):**
 
-step a) First sign up for a free [Databricks Community Edition account here](https://community.cloud.databricks.com/login.html), please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html) if you have questions.
+step a) First sign up for a free [
+
+
+
+
+
+Community Edition account here](https://community.cloud.databricks.com/login.html), please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html) if you have questions.
 
 step b) Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc"  insde of `databricks_version` folder on this repo, and import this .dbc file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under "import a notebook" section.
 
