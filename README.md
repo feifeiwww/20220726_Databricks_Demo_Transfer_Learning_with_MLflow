@@ -1,5 +1,5 @@
 # 20220726_Databricks_Demo_Transfer_Learning_with_MLflow
-We will go hands-on with an image classification demo using transfer learning, while leveraging MLflow to track our model experiments on Databricks
+We will go hands-on with an image classification of cats VS dogs demo using transfer learning, while leveraging MLflow to track our model experiments on Databricks
 
 You may find more information about this demo on [FourthBrain website](https://discover.fourthbrain.ai/live-session/databricks?utm_campaign=Databricks%20Event&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz--F8VKHIPHNwly3IwFlBZT7uYi4Jn3-fqVCD3M9GJl2h8qjWSSemEn5fAiN0DF7uY7krt5DdxtgPo6hf6YqQX19orXAIw&utm_content=2&utm_source=hs_email).
 
