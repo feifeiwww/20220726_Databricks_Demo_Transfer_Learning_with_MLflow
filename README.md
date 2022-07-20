@@ -23,7 +23,7 @@ If you would like Run this demo:
 
 (f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
 
-(g) You may check your MLflow experiments results under the "Experiments" tab on the left. 
+(g) You may check your MLflow experiments by clicking "Experiments" on the top. 
 
 **3. Or on Databricks enterprise edition:**
 
@@ -31,6 +31,6 @@ If you would like Run this demo:
 
 * Run the notebooks on a cluster with Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4)
 
-* You may check your MLflow experiments results under the "Experiments" tab on the left. 
+* You may check your MLflow experiments results under the "Experiments" tab on the left, or inside of your notebook on the top under "Experiments". 
 
 In addition, you could view the code directly from the `html_versin` folder. 
