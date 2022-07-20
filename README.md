@@ -13,7 +13,7 @@ If you would like Run this demo:
 
 * To sign up for a free Databricks Community Edition account, please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html).
 
-* Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc"  insde of `databricks_version` folder on this repo, and import this .dbc file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html) under "import a notebook" section.
+* Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc"  insde of `databricks_version` folder on this repo, and import this .dbc file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under "import a notebook" section.
 
 * Create a cluster with Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster.
 
