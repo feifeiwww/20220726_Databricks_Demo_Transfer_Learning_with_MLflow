@@ -19,7 +19,7 @@ If you would like Run this demo:
 
 (d) Open the imported notebooks on Databricks from the workspace tab, open "transfer learning demo part1" notebook, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section *"Attach a notebook to a cluster"*. 
 
-(e) You can now try to open "transfer learning demo part2" notebook, attach it to the 10.4ML cluster, and click "Run All".
+(e) You can now try to open "transfer learning demo part2" notebook, attach it to the 10.4ML cluster, and click "Run All". It may take several minutes to run this notebook.
 
 (f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
 
