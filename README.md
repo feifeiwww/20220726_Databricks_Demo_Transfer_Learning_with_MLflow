@@ -33,5 +33,5 @@ If you would like Run this demo, please download the entire zip file:
 
 * You may check your MLflow experiments results under the "Experiments" tab on the left, or inside of your notebook on the top under "Experiments". 
 
-**4. In addition, you could view the code directly from the `html_versin` folder:** 
+**4. Or view the code directly from the `html_versin` folder:** 
 * Please download the entire folder, then open the html file locally through a browser (to view the code in the correct format), instead of download the individual files (can only view raw format).  
