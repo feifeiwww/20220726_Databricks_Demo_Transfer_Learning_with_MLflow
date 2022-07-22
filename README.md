@@ -5,7 +5,7 @@ We will go hands-on with an image classification of cats VS dogs demo using ***t
 
 You may find more information and a recording about this demo on [FourthBrain website](https://discover.fourthbrain.ai/live-session/databricks?utm_campaign=Databricks%20Event&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz--F8VKHIPHNwly3IwFlBZT7uYi4Jn3-fqVCD3M9GJl2h8qjWSSemEn5fAiN0DF7uY7krt5DdxtgPo6hf6YqQX19orXAIw&utm_content=2&utm_source=hs_email).
 
-# If you would like run this demo, please download the entire zip file first before running it in your workspace:
+## If you would like run this demo, please download the entire zip file first before running it in your workspace:
 
 **1. Locally (for example, jupyter notebook):**
 
