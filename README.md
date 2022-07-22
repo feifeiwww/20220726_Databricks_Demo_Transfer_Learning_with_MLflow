@@ -27,9 +27,9 @@ If you would like Run this demo, please download the entire zip file:
 
 **3. Or on Databricks enterprise edition:**
 
-* Download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc" insde of `databricks_version` folder on this repo, and import this .dbc file into your Databricks user account.
+* Download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc" insde of `databricks_version` folder on this repo, and import this .dbc file into your Databricks enterprise user account.
 
-* Run the notebooks on a cluster with Databricks runtime version 10.4ML or up on your enterprise account. (note: use 10.4ML, not 10.4)
+* Run the notebooks on a cluster with Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4)
 
 * You may check your MLflow experiments results under the "Experiments" tab on the left, or inside of your notebook on the top under "Experiments". 
 
