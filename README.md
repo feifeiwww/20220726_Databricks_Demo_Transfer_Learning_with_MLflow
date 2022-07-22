@@ -12,9 +12,7 @@ You may find more information and a recording about this demo on [FourthBrain we
 * Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
 
 **2. Or on Databricks Community Edition (it is free. note: it is different from the Databricks Free Trial version):**
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
+
   (a) First sign up for a free Community Edition account, please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html) if you have questions. You can use [this link](https://community.cloud.databricks.com/login.html) to sign in if you have an existing account.
 ![image](https://user-images.githubusercontent.com/109642474/180575265-ecbf6401-bf87-4fa3-b769-965318ff1790.png)
 
