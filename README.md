@@ -36,4 +36,4 @@ If you would like Run this demo, please download the entire zip file:
 **4. Or view the code directly from the `html_versin` folder:** 
 * Please download the [entire folder](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow) (click "code" on the right upper corner, then click "download zip"), then open the html_version folder, and open one file locally through a browser by double clicking on the html file. 
 
-* Note, downloading the individual html file may lead to view in raw format only, instead of the correct view format. 
+* Note: downloading the individual html file may lead to view in raw format only, instead of the correct view format. 
