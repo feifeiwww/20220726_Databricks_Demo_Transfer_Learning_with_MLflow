@@ -3,7 +3,7 @@ We will go hands-on with an image classification of cats VS dogs demo using ***t
 
 You may find more information and a recording about this demo on [FourthBrain website](https://discover.fourthbrain.ai/live-session/databricks?utm_campaign=Databricks%20Event&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz--F8VKHIPHNwly3IwFlBZT7uYi4Jn3-fqVCD3M9GJl2h8qjWSSemEn5fAiN0DF7uY7krt5DdxtgPo6hf6YqQX19orXAIw&utm_content=2&utm_source=hs_email).
 
-If you would like Run this demo:
+If you would like Run this demo, please download the entire zip file:
 
 **1. Locally (for example, jupyter notebook):**
 
@@ -33,4 +33,4 @@ If you would like Run this demo:
 
 * You may check your MLflow experiments results under the "Experiments" tab on the left, or inside of your notebook on the top under "Experiments". 
 
-In addition, you could view the code directly from the `html_versin` folder. 
+**4. In addition, you could view the code directly from the `html_versin` folder. Note: due to html Github display issue, please download the entire folder then open the html file, instead of download the individual files.  
