@@ -1,4 +1,4 @@
-# Databricks Demo Transfer Learning with MLflow 
+# Databricks Demo: Transfer Learning with MLflow 
 ## with FourthBrain
 
 We will go hands-on with an image classification of cats VS dogs demo using ***transfer learning***, while leveraging ***MLflow*** to track our model experiments on ***Databricks***.
