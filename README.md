@@ -21,15 +21,18 @@ You may find more information and a recording about this demo on [FourthBrain we
   ![image](https://user-images.githubusercontent.com/109642474/180575795-0e705ec3-4281-49b3-973e-630606c6adee.png)
 
 
-  (c) Create a cluster under the "compute" tab on the left, select Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster. It may take a few minutes to start a cluster. 
+  (c) Create a cluster under the "compute" tab on the left, select Databricks runtime version 10.4ML or up, let's name it `test10.4ML`. (note: use 10.4ML, not 10.4). Refer to this [doc](https://docs.databricks.com/clusters/create.html) about how to create a cluster. It may take a few minutes to start a cluster. 
   ![image](https://user-images.githubusercontent.com/109642474/180576008-c55d3162-a5df-414a-839c-7048c9af40b5.png)
 
 
-  (d) Open the imported notebooks on Databricks from the workspace tab, open "transfer learning demo part1" notebook, attach the cluster to your notebook, then click "Run All" on the top to run the notebook. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section *"Attach a notebook to a cluster"*. 
+  (d) Open the imported notebooks on Databricks from the workspace tab, open "transfer learning demo part1" notebook, attach the `test10.4ML` cluster to your notebook, then click "Run All" on the top to run the notebook. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#attach-a-notebook-to-a-cluster) under the section *"Attach a notebook to a cluster"*. 
   ![image](https://user-images.githubusercontent.com/109642474/180576291-1bdcd11a-c400-4152-afe1-c92a8fc577c2.png)
+  
+  ![image](https://user-images.githubusercontent.com/109642474/180576518-f4f71fda-05e0-48b5-8a6a-d32048981d11.png)
 
 
-  (e) You can now try to open "transfer learning demo part2" notebook, attach it to the 10.4ML cluster, and click "Run All". It may take several minutes to run this notebook.
+
+  (e) You can also try to open "transfer learning demo part2" notebook, attach this notebook to the cluster `test10.4ML`, and click "Run All". It may take several minutes to run this notebook.
 
   (f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
 
