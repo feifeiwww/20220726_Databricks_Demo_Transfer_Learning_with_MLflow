@@ -34,7 +34,7 @@ You may find more information and a recording about this demo on [FourthBrain we
 
 
 
-  (e) You can also try to import and open "transfer learning demo part2" notebook similar to step (b)-(d), attach this notebook to the cluster `test10.4ML`, and click "Run All". It may take several minutes to run this notebook.
+  (e) You can also try to import and open "transfer learning demo part2" notebook similarly, attach it to the cluster `test10.4ML`, and click "Run All". It may take several minutes to run this notebook.
 
   (f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
 
