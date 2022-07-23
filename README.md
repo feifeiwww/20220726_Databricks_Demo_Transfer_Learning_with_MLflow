@@ -46,7 +46,7 @@ You may find more information and a recording about this demo on [FourthBrain we
 
 **3. Or on Databricks enterprise edition:**
 
-* Download the 2 .ipynb notebooks insde of `databricks_version` folder on this repo, and import them into your Databricks enterprise user account.
+* Download the .ipynb notebooks insde of `databricks_version` folder on this repo, and import them into your Databricks enterprise user account.
 
 * Run the notebooks on a cluster with Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4)
 
