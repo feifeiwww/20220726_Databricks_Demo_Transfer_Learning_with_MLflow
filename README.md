@@ -20,7 +20,7 @@ You may find more information and a recording about this demo on [FourthBrain we
 ![image](https://user-images.githubusercontent.com/109642474/180575265-ecbf6401-bf87-4fa3-b769-965318ff1790.png)
 
 
-  (b) Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc"  insde of `databricks_version` folder on this repo, and import this .dbc file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under *"import a notebook"* section.
+  (b) Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/Transfer%20Learning%20Demo%20Part%201.ipynb) "Transfer Learning Demo Part 1.ipynb" insde of `databricks_version` folder on this repo, and import this .ipynb file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under *"import a notebook"* section.
   
   ![image](https://user-images.githubusercontent.com/109642474/180575795-0e705ec3-4281-49b3-973e-630606c6adee.png)
 
@@ -38,7 +38,7 @@ You may find more information and a recording about this demo on [FourthBrain we
 
 
 
-  (e) You can also try to open "transfer learning demo part2" notebook, attach this notebook to the cluster `test10.4ML`, and click "Run All". It may take several minutes to run this notebook.
+  (e) You can also try to import and open "transfer learning demo part2" notebook similar to step (b)-(d), attach this notebook to the cluster `test10.4ML`, and click "Run All". It may take several minutes to run this notebook.
 
   (f) Important note: you must attach your notebook to a cluster before you can run it. If your cluster is terminated, you need to restart it or re-create a new cluster. 
 
@@ -46,13 +46,13 @@ You may find more information and a recording about this demo on [FourthBrain we
 
 **3. Or on Databricks enterprise edition:**
 
-* Download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/feifei_transfer_learning_with_MLflow_demo.dbc) "feifei_transfer_learning_with_MLflow_demo.dbc" insde of `databricks_version` folder on this repo, and import this .dbc file into your Databricks enterprise user account.
+* Download the 2 .ipynb notebooks insde of `databricks_version` folder on this repo, and import them into your Databricks enterprise user account.
 
 * Run the notebooks on a cluster with Databricks runtime version 10.4ML or up. (note: use 10.4ML, not 10.4)
 
 * You may check your MLflow experiments results under the "Experiments" tab on the left, or inside of your notebook on the top under "Experiments". 
 
-**4. Or view the code directly from the `html_version` folder:** 
-* Please download the [entire folder](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow) (click "code" on the right upper corner, then click "download zip"), then open the html_version folder, and open one file locally through a browser by double clicking on the html file. 
+* In addition, you may uncomment the model registry optional code at the end of "transfer learning demo part2.ipynb", and run them. Check model registry results under "Models" tab.
 
-* Note: downloading the individual html file may lead to view in raw format only, instead of the correct view format. 
+**4. Or view the code directly from the notebooks inside of the `databricks_version` folder:** 
+
