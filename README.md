@@ -7,14 +7,10 @@ You may find more information and a recording about this demo on [FourthBrain we
 
 ## If you would like run this demo, please download the 2 notebook files before running them in your workspace:
 
-**1. Locally (for example, jupyter notebook):**
+**1. You may directly view the code from the notebooks inside of the `databricks_version` folder on Github;** 
 
-* Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
-* To use MLflow locally, you may need to add additional steps for configuration and code. These steps include but not limited to 
-    ```pip install mlflow``` for installing MLflow locally, and
-    ```!mlflow ui``` for viewing the MLflow UI.
 
-**2. Or on Databricks Community Edition (it is free. note: it is different from the Databricks Free Trial version):**
+**2. Or run them on Databricks Community Edition (it is free. note: it is different from the Databricks Free Trial version):**
 
   (a) First sign up for a free Community Edition account, please refer to this [doc](https://docs.databricks.com/getting-started/community-edition.html) if you have questions. You can use [this link](https://community.cloud.databricks.com/login.html) to sign in if you have an existing account.
 ![image](https://user-images.githubusercontent.com/109642474/180575265-ecbf6401-bf87-4fa3-b769-965318ff1790.png)
@@ -54,5 +50,8 @@ You may find more information and a recording about this demo on [FourthBrain we
 
 * In addition, you may uncomment the model registry optional code at the end of "transfer learning demo part2.ipynb", and run them. Check model registry results under "Models" tab.
 
-**4. Or view the code directly from the notebooks inside of the `databricks_version` folder** 
 
+**4. Or locally (for example, jupyter notebook):**
+
+* Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
+* To use MLflow locally, you may need to add additional steps for configuration and code. These steps include but not limited to ```pip install mlflow``` for installing MLflow locally, and ```!mlflow ui``` for viewing the MLflow UI. Note: code is not provided. 
