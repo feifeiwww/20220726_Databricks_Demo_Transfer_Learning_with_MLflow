@@ -10,7 +10,7 @@ You may find more information and a recording about this demo on [FourthBrain we
 **1. Locally (for example, jupyter notebook):**
 
 * Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
-* To use MLflow locally, you may need to add additional steps for configuration and code. They include but not limited to 
+* To use MLflow locally, you may need to add additional steps for configuration and code. These steps include but not limited to 
     ```pip install mlflow``` for installing MLflow locally, and
     ```!mlflow ui``` for viewing the MLflow UI.
 
