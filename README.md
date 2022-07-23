@@ -16,7 +16,7 @@ You may find more information and a recording about this demo on [FourthBrain we
 ![image](https://user-images.githubusercontent.com/109642474/180575265-ecbf6401-bf87-4fa3-b769-965318ff1790.png)
 
 
-  (b) Then download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/Transfer%20Learning%20Demo%20Part%201.ipynb) "Transfer Learning Demo Part 1.ipynb" insde of `databricks_version` folder on this repo, and import this .ipynb file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under *"import a notebook"* section.
+  (b) Download [this file](https://github.com/feifeiwww/20220726_Databricks_Demo_Transfer_Learning_with_MLflow/blob/main/databricks_version/Transfer%20Learning%20Demo%20Part%201.ipynb) "Transfer Learning Demo Part 1.ipynb" insde of `databricks_version` folder on this repo, and import this .ipynb file into your user account using Databrick Community Edition. Refer to this [doc](https://docs.databricks.com/notebooks/notebooks-manage.html#import-a-notebook) under *"import a notebook"* section.
   
   ![image](https://user-images.githubusercontent.com/109642474/180575795-0e705ec3-4281-49b3-973e-630606c6adee.png)
 
