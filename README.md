@@ -5,11 +5,13 @@ We will go hands-on with an image classification of cats VS dogs demo using **tr
 
 You may find more information and a recording about this demo on [FourthBrain website](https://discover.fourthbrain.ai/live-session/databricks?utm_campaign=Databricks%20Event&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz--F8VKHIPHNwly3IwFlBZT7uYi4Jn3-fqVCD3M9GJl2h8qjWSSemEn5fAiN0DF7uY7krt5DdxtgPo6hf6YqQX19orXAIw&utm_content=2&utm_source=hs_email).
 
-## If you would like run this demo, please download the entire zip file first before running it in your workspace:
+## If you would like run this demo, please download the 2 notebook files before running them in your workspace:
 
 **1. Locally (for example, jupyter notebook):**
 
 * Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
+* To use MLflow locally, you may need to add additional steps or code for configuration. They include but not limited to 
+```pip install mlflow``` for installing MLflow locally, ```!mlflow ui``` for viewing the MLflow UI.
 
 **2. Or on Databricks Community Edition (it is free. note: it is different from the Databricks Free Trial version):**
 
