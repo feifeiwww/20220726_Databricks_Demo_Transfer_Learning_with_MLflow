@@ -54,4 +54,4 @@ You may find more information and a recording about this demo on [FourthBrain we
 **4. Or locally (for example, jupyter notebook):**
 
 * Please follow [this](https://www.tensorflow.org/tutorials/images/transfer_learning) link for tensorflow transfer learning tutorial.
-* To use MLflow locally, you may need to add additional steps for configuration and code. These steps may include but not limited to ```pip install mlflow``` for installing MLflow locally,  ```!mlflow ui``` for viewing the MLflow UI, and ```!pkill -f gunicorn``` for stopping the UI. Note: it is an excersie for the users, so the full code is not provided here. 
+* To use MLflow locally, you may need to add additional code and steps for configuration. These steps may include but not limited to ```pip install mlflow``` for installing MLflow locally,  ```!mlflow ui``` for viewing the MLflow UI, and ```!pkill -f gunicorn``` for stopping the UI. Note: it is an excersie for the users, so the full code is not provided here. 
