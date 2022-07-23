@@ -54,5 +54,5 @@ You may find more information and a recording about this demo on [FourthBrain we
 
 * In addition, you may uncomment the model registry optional code at the end of "transfer learning demo part2.ipynb", and run them. Check model registry results under "Models" tab.
 
-**4. Or view the code directly from the notebooks inside of the `databricks_version` folder:** 
+**4. Or view the code directly from the notebooks inside of the `databricks_version` folder** 
 
