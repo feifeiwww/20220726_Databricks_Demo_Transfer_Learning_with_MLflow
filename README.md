@@ -3,7 +3,7 @@
 
 We will go hands-on with an image classification of Cats vs Dogs demo using **transfer learning**, while leveraging **MLflow** to track our model experiments on **Databricks**.
 
-You may find more information and a recording(coming up soon) of this demo on the [FourthBrain website](https://discover.fourthbrain.ai/live-session/databricks?utm_campaign=Databricks%20Event&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz--F8VKHIPHNwly3IwFlBZT7uYi4Jn3-fqVCD3M9GJl2h8qjWSSemEn5fAiN0DF7uY7krt5DdxtgPo6hf6YqQX19orXAIw&utm_content=2&utm_source=hs_email).
+You may find more information and a YouTube recording([here](https://www.youtube.com/watch?v=vqzSMygzuZ0)) of this demo on the [FourthBrain website](https://discover.fourthbrain.ai/live-session/databricks?utm_campaign=Databricks%20Event&utm_medium=email&_hsmi=2&_hsenc=p2ANqtz--F8VKHIPHNwly3IwFlBZT7uYi4Jn3-fqVCD3M9GJl2h8qjWSSemEn5fAiN0DF7uY7krt5DdxtgPo6hf6YqQX19orXAIw&utm_content=2&utm_source=hs_email).
 
 ## If you would like run this demo, please download the two notebook files inside the `notebooks` folder on Github:
 
